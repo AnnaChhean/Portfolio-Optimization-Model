@@ -1,1 +1,2 @@
-# Portfolio-Optimization-Model
+# Portfolio Optimization Model
+## Developed an Excel-based portfolio optimization model to allocate a $250,000 investment across equities, bonds, and gold. Used linear programming and the Sharpe Ratio to maximize risk-adjusted returns while maintaining diversification constraints. Conducted sensitivity analysis to evaluate how market changes affect asset allocation. The final strategy selected was a risk-adjusted portfolio with maximum Sharpe Ratio, balancing return and stability under uncertainty.
